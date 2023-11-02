@@ -1,0 +1,141 @@
+body{
+    padding: 0;
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    background-image: url("../images/ntnuBackground.jpg");
+}
+
+
+#card{
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+hr{
+    width: 90%;
+    color: #C5D4E7;;
+
+}
+
+/********** LANGUAGE CHOICE ****************/
+
+#language{
+    background-color: #C5D4E7;
+    text-align: right;
+    padding: 10px;
+    font-size: small;
+}
+
+#language::before{
+    content: "💬 "
+}
+#language::after{
+    content: "⌵";
+    counter-reset: darkblue;
+    font-weight: bold;
+}
+
+
+/************* OFFICE365 Section ***************/
+
+#feideLoginInfo{
+    display: flex;
+    gap: 30px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+
+    font-size: small;
+
+}
+
+#feideLoginInfo>img{
+    height: 30px;
+}
+
+
+/*********** Current org *************/
+
+#currentOrg{
+    padding: 10px;
+    padding-top: 0;
+    font-weight: normal;
+}
+
+#currentOrg>h4{
+
+    font-weight: normal;
+}
+
+#currentOrd, img{
+    height: 60px;
+}
+
+#container{
+    display: flex;
+    gap: 5px;
+
+}
+
+#orgChangeSection{
+    line-height: 2px;
+}
+
+#orgChangeSection>h3{
+    font-weight: normal;
+}
+
+#orgChangeSection>h5{
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+
+/********* User input section *****************/
+
+form{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+form > input{
+    min-width:90%;
+    min-height: 40px;
+    border: 2px solid #606CA5;
+    font-size: 1.3em;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+form > label{
+    padding-left: 5px;
+}
+
+#message{
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+form > button{
+    min-width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: #92B9EC;
+    cursor: pointer;
+
+}
+
+
+
