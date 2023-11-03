@@ -2,7 +2,7 @@
 
 This repository contains a simulated phishing website created for a Capture The Flag (CTF) challenge as part of the course IIK3100. The intention of this project is to replicate the NTNU email login page for educational purposes. It's crucial to note that this is a **fake website** designed explicitly for instructional and awareness purposes and should not be used to input any personal or sensitive information, especially login credentials.
 
-![webpagePhishing](https://github.com/KjetilIN/IIK3100-Phishing-Website/assets/66110094/ea1e5f6d-459c-4536-b289-599ae2e5c471)
+![webpagePhishing](https://github.com/KjetilIN/IIK3100-Phishing-Website/assets/66110094/cb9eaecf-7025-4983-bd79-746983b37c31)
 
 
 ## Disclaimer ⁉️
