@@ -17,6 +17,34 @@ The website is constructed using basic webdevelopment tools, like HTML, CSS and 
 It also uses Vercel for deployment: https://vercel.com/
 
 
+## Email
+
+This was the email that was sent out 
+
+```text
+
+SUBJECT: [Wrong Information about IIK3100] Urgent fix needed
+
+Hi Laszlo!
+
+We are got some feedback that the content of you IIK3100 page is wrong.
+Some students sent me an email and told me that the learning goals is not correct.
+
+Could you login and check that is looks good? Please use the link below:
+
+https://admin.ntnu.no/
+
+Thanks!
+
+Lars Erik Pedersen
+Overingeniør, IIK, NTNU
+61 13 53 78 / 930 89 174
+
+```
+
+**NB** Note that the link goes to my own deployed project. 
+
+
 ## Links
 
 - IIK3100 Etisk hacking og penetrasjonstesting (Course information) => https://www.ntnu.no/studier/emner/IIK3100
